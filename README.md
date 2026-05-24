@@ -18,6 +18,7 @@ Perform data exploration and cleaning using Python and Pandas.
 - Jupyter Notebook
 
 ## Files Included
+- shopping_data.csv
 - shopping_data_cleaning.ipynb
 - cleaned_shopping_data.csv
 - README.md
